@@ -28,4 +28,4 @@ Now the Jupyter is installed. Open the Notebook in your browser. Run: <br/>
 <li> Open the <code> .ipnyb </code>file </li>
 <li> Run Each cell using <code><b> Shift+Enter </b> </code> </li>
 </ul>
-<h2>That's it. It should. Happy coding :) </h2>
+<h2>That's it. It should work. Happy coding :) </h2>
